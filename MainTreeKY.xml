@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<tree>
+
+	<node name="Human_Resource"
+		homeClass="huma_network.xml" >
+		<node name="Employee_Card"
+			homeClass="blanktest.testCUI" />
+	</node>
+</tree>
